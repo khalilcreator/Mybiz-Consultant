@@ -1,0 +1,70 @@
+nav{
+ margin: 8px 20px;
+ position: fixed; 
+ top: 5;
+ z-index: 999;
+}
+nav ul li{
+  padding: 0 0px ;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Ubuntu', sans-serif;
+}
+nav ul li a{
+ color: black!important;
+}
+nav ul li a:hover{
+ color: green!important;
+ transition: .5s;
+}
+.f-image{
+ height: 40px;
+ width: 40px;
+}
+.navimage{
+  width:60%;
+}
+@media screen and (max-width:999px){
+  .navimage{
+    width:80%;
+  }
+}
+@media screen and (max-width:991px){
+  .navimage{
+    width:90%;
+  }
+}
+@media screen and (max-width:800px){
+  .navimage{
+    width:80%;
+  }
+}
+@media screen and (max-width:580px){
+ nav{
+  margin: 0px 0px;
+ }
+ nav ul li{
+   padding: 0px ;
+
+ }
+ .navimage{
+  width:50%;
+}
+}
+.aaa:hover+.ul,
+.ul:hover {
+ display: block;
+}
+.lili {
+ color: rgba(0,0,0,0.7) !important;
+ font-size: medium;
+ font-weight: 550;
+ font-family: 'Ubuntu', sans-serif;
+}
+/* section 1 */
+.section-1{
+  width: 100%;
+  height: 500px;
+  background-color: red;;
+  background-image: url('/assets/home1.jpg');
+}
