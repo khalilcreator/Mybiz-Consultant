@@ -1,5 +1,5 @@
 <!-- Navbar starts -->
-<nav class="navbar navbar-expand-md  shadow ">
+<nav class="navbar navbar-expand-md  shadow mt-0 pt-0">
     <div class="container-fluid ">
      <div class="col-md-5 d-lg-block d-md-block d-none">
       <div class="collapse navbar-collapse navbar-nav " id="navbarNav">
