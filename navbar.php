@@ -6,7 +6,7 @@
        <ul class="navbar-nav d-flex justify-content-evenly flex-fill me-4">
          <li class="nav-item "><a class="nav-link ms-lg-1" aria-current="page" href="#">Home</a> </li>
          <li class="nav-item "><a class="nav-link ms-lg-1" href="#about">About</a></li>
-         <li  class="nav-item "><a class="nav-link ms-lg-1" href="#menu">Blog</a></li>
+         <li  class="nav-item "><a class="nav-link ms-lg-1" href="#menu">Complain</a></li>
          <li class="nav-item" aria-expanded="false">
            <span class="nav-link aaa li ms-lg-2 aaa text-dark" >Services</span>
              <ul class="ul dropdown-menu border-0">
@@ -21,7 +21,7 @@
      </div>
      </div>
      <div class="col-md-2 col-lg-3 col-12 d-flex align-items-center justify-content-between ">
-       <a class="navbar-brand ms-0" href="#"><img data-src="image-to-lazy-load.png logo-img "
+       <a class="navbar-brand ms-0" href="/"><img data-src="image-to-lazy-load.png logo-img "
          class=" lazyload navimage" src="./assets/logo.png"></a>
          <p class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
          aria-controls="navbarNav" aria-expanded="false" >
@@ -31,7 +31,7 @@
      <div class="col-md-5 d-block d-lg-none d-md-none">
       <div class="collapse navbar-collapse navbar-nav " id="navbarNav">
        <ul class="navbar-nav d-flex justify-content-evenly ms-5 ms-lg-0 ms-md-0 me-4">
-         <li class="nav-item "><a class="nav-link ms-lg-1" aria-current="page" href="#">Home</a> </li>
+         <li class="nav-item "><a class="nav-link ms-lg-1" aria-current="page" href="/">Home</a> </li>
          <li class="nav-item "><a class="nav-link ms-lg-1" href="#about">Shop</a></li>
          <li  class="nav-item "><a class="nav-link ms-lg-1" href="#menu">Blog</a></li>
          <li class="nav-item" aria-expanded="false">
@@ -46,9 +46,9 @@
          <li class="nav-item "><a class="nav-link ms-lg-1 " href="#contact">Contact</a> </li>
          <li  class="nav-item ">
           <ul class=" d-flex align-items-center justify-content-between  list-unstyled">
-           <li class="nav-item "><a class="nav-link fs-4" href="#contact"><i class="bi bi-facebook" ></i></a> </li>
-           <li class="nav-item ms-5 ms-md-0 ms-lg-0"><a class="nav-link fs-4" href="#contact"><i class="bi bi-twitter" ></i></a> </li>
-           <li class="nav-item ms-5 ms-md-0 ms-lg-0"><a class="nav-link fs-4" href="#contact"><i class="bi bi-gift" ></i></a> </li>
+           <li class="nav-item "><a class="nav-link fs-4" target="blank" href="https://www.facebook.com/profile.php?viewas=100000686899395&id=61551917309801"><i class="bi bi-facebook" ></i></a> </li>
+           <li class="nav-item ms-5 ms-md-0 ms-lg-0"><a  target="blank"class="nav-link fs-4" href="#contact"><i class="bi bi-twitter" ></i></a> </li>
+           <li class="nav-item ms-5 ms-md-0 ms-lg-0"><a target="blank" class="nav-link fs-4" href="#contact"><i class="bi bi-gift" ></i></a> </li>
            <li class="nav-item ms-5 ms-md-0 ms-lg-0"><a class="nav-link fs-4" href="#contact"><i class="bi bi-whatsapp" ></i></a> </li>
          </ul>
          </li>
@@ -57,10 +57,10 @@
      </div>
      <div class="d-none d-md-block d-lg-block col-md-3 col-lg-3 ">
        <ul class="ms-0 d-flex align-items-center justify-content-between  list-unstyled">
-        <li class="nav-item "><a class="nav-link fs-4" href="#contact"><i class="bi bi-facebook" ></i></a> </li>
-        <li class="nav-item "><a class="nav-link fs-4" href="#contact"><i class="bi bi-instagram" ></i></a> </li>
-        <li class="nav-item "><a class="nav-link fs-4" href="#contact"><i class="bi bi-book" ></i></a> </li>
-        <li class="nav-item "><a class="nav-link fs-4" href="#contact"><i class="bi bi-whatsapp" ></i></a> </li>
+        <li class="nav-item "><a class="nav-link fs-4" target="blank" href="https://www.facebook.com/profile.php?viewas=100000686899395&id=61551917309801"><i class="bi bi-facebook"></i></a> </li>
+        <li class="nav-item "><a class="nav-link fs-4" href="https://www.instagram.com/mybizconsultant.co.uk/" target="blank"><i class="bi bi-instagram" ></i></a> </li>
+        <li class="nav-item "><a class="nav-link fs-4" href="mailto:mybizconsultant0@gmail.com" target="blank"><i class="bi bi-envelope" ></i></a> </li>
+        <li class="nav-item "><a class="nav-link fs-4" href="tel:07931536718"><i class="bi bi-phone" ></i></a> </li>
       </ul>
      </div>
      <div class="col-md-1 col-lg-1 col-0 d-none d-lg-block"></div>
