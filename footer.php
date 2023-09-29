@@ -19,10 +19,10 @@
              <h3 class="footer-heading text-light mb-4">Quick <span class="text-success">Links</span></h3>
              <div class="ms-2 ms-md-4 ms-lg-4">
              <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="home.php" class="text-light fw-lighter footer-link">Home</a></p>
-               <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="" class="text-light fw-lighter footer-link">About</a></p>
-               <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="" class="text-light fw-lighter footer-link">Gas & Oil</a></p>
-               <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="" class="text-light fw-lighter footer-link">Finance</a></p>
-               <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="contact.php" class="text-light fw-lighter footer-link">Contact Us</a></p>
+               <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="about.php" class="text-light fw-lighter footer-link">About</a></p>
+               <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="gas&oil.php" class="text-light fw-lighter footer-link">Gas & Oil</a></p>
+               <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="finance.php" class="text-light fw-lighter footer-link">Finance</a></p>
+               <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="complain.php" class="text-light fw-lighter footer-link">Complaints</a></p>
             
              </div>            
             </div>
@@ -31,7 +31,7 @@
           <h3 class=" ms-md-4"><span class="text-success">Find</span> Us:</h3>
           <div class="d-flex justify-content-evenly flex-column ">
           <a class="text-decoration-none footer-a"><p class="mt-4 ms-4 footer-link"><span class="me-3 "><i class="bi bi-geo-alt-fill fs-5"></i></span>1 Ropemaker St, Barbican, London EC2Y 9AW, United Kingdom</p></a>
-          <a class="text-decoration-none footer-a" href="mailto:mybizconsultant0@gmail.com"><p class="mt-2 ms-4 footer-link"><span class="me-3 "><i class="bi bi-envelope fs-5"></i></span>mybizconsultant0@gmail.com</p></a>
+          <a class="text-decoration-none footer-a" href="mailto:info@mybizconsultant.co.uk"><p class="mt-2 ms-4 footer-link"><span class="me-3 "><i class="bi bi-envelope fs-5"></i></span>mybizconsultant0@gmail.com</p></a>
           <a class="text-decoration-none footer-a" href="tel:07931536718"><p class="mt-2 ms-4 footer-link"><span class="me-3 "><i class="bi bi-telephone-fill"></i></span>+07931536718</p></a>
           <a class="text-decoration-none footer-a" href="https://www.facebook.com/profile.php?viewas=100000686899395&id=61551917309801"><p class="mt-2 ms-4 footer-link"><span class="me-3"><i class="bi bi-facebook fs-5"></i></span>Mybiz Consultant</p></a>
           

@@ -110,12 +110,14 @@
     </div>
   </div>
 <!-- clients section ends-->
-
+<!-- contact starts -->
+   <?php include 'contactform.php' ?>
 <!-- footer starts -->
    <?php include "footer.php" ?>
 <!-- footer ends -->
 <script src="bootstrap.min.js"></script>
 <script src="custom.js"></script>
 <script src="jquery.min.js"></script>
+<script src="script.js"></script>
   </body>
 </html>

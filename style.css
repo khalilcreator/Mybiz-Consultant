@@ -84,6 +84,48 @@ nav ul li a:hover{
   border-radius: 50%;
   z-index: 1000;
 }
+/* contact starts */
+.contact-container {
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.label {
+  font-weight: bold;
+}
+
+.form-control {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+.my-3 {
+  margin-bottom: 1.5rem;
+}
+
+.my-2 {
+  margin-bottom: 1rem;
+}
+.form-control:focus {
+  border-color: #4CAF50 !important; 
+  outline: 0 !important; 
+  box-shadow: 0 0 5px #4CAF50 !important; 
+}
+/* contact ends */
 /* section-2 ends */
 @media screen and (max-width:999px){
   .navimage{
@@ -103,6 +145,12 @@ nav ul li a:hover{
 @media screen and (max-width:768px){
   .navimage{
     width: 40% !important;
+   
+  }
+  .whtsapp {
+    position: fixed;
+    left: 90% !important;
+    top: 85%;
   }
 }
 @media screen and (max-width:580px){
@@ -122,6 +170,11 @@ nav ul li a:hover{
  }
  .navimage{
   width:50%;
+}
+.whtsapp {
+  position: fixed;
+  left: 85% !important;
+  top: 85%;
 }
 }
 .aaa:hover+.ul,
