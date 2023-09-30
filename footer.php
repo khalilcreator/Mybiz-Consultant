@@ -20,7 +20,7 @@
              <div class="ms-2 ms-md-4 ms-lg-4">
              <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="home.php" class="text-light fw-lighter footer-link">Home</a></p>
                <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="about.php" class="text-light fw-lighter footer-link">About</a></p>
-               <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="gas&oil.php" class="text-light fw-lighter footer-link">Gas & Oil</a></p>
+               <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="gas&oil.php" class="text-light fw-lighter footer-link">Gas & Energy</a></p>
                <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="finance.php" class="text-light fw-lighter footer-link">Finance</a></p>
                <p class="ms-md-0 ms-lg-0 fw-bold ms-4"><a href="complain.php" class="text-light fw-lighter footer-link">Complaints</a></p>
             
